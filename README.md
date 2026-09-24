@@ -1,0 +1,2 @@
+# HoleConfigration
+something magic
